@@ -6,7 +6,7 @@
 
 🎓 Currently I am completing my master's degree at the Department of International Economic Relations of Moscow State Institute for International Relations (MGIMO-University).
 
-✏ In 2022-2023 I took Data Analysis course at Yandex Practicum in order to enhance my capabilities as a researcher and at the same time open new career opportunities. During the course I fulfilled 15 projects by myself, 9 of them are posted in the repository <a href="https://github.com/pavel-kurpas/praktikum_projects">praktikum_projects</a> (all of them are in Russian so far).
+✏ In 2022-2023 I took Data Analysis course at Yandex Practicum in order to enhance my capabilities as a researcher and at the same time open new career opportunities. During the course I fulfilled 15 projects by myself, 11 of them are posted in the repository <a href="https://github.com/pavel-kurpas/praktikum_projects">praktikum_projects</a> (all of them are in Russian so far).
 
 🤓 I know Python (mostly pandas, matplotlib, seaborn, plotly), SQL, Tableau, Excel, gretl, bash. Also I have 6 publications on  in economic magazines.
 
